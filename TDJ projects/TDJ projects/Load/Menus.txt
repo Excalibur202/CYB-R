@@ -1,0 +1,12 @@
+﻿Load=[MENU]
+
+Load=[Axis][Font][Animation][Align]
+[2][MenuFont][Fade][Center]
+
+Load=[Item][LinkType][LinkID]
+[New Game][Screen][Maps.DesertScreen]
+
+Load=[Item][LinkType]
+[Quit][Exit]
+
+EndLoad=[MENU]

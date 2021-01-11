@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/1200-1.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/accepted.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/BG.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/birb.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/blueCavern.jpg</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/blyat.jpg</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Brutal.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/bullet.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/1.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/10.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/11.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/12.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/13.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/14.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/15.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/16.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/17.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/18.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/19.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/2.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/20.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/21.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/22.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/23.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/24.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/25.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/26.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/27.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/28.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/29.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/3.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/30.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/31.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/32.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/33.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/34.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/35.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/36.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/37.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/38.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/4.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/43.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/44.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/45.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/46.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/47.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/48.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/5.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/6.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/7.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/8.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Cavern/9.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Controlls.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/cs go.jpg</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/1.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/10.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/11.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/12.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/13.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/14.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/15.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/16.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/17.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/18.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/19.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/2.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/20.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/21.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/22.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/23.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/24.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/25.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/26.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/27.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/28.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/29.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/3.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/30.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/4.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/5.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/6.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/7.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/8.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/9.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Desert/BG.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Font1.spritefont</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/HG(2).jpg</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/MenuFont.spritefont</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Menus/imagem1.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/null.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/PaperMockup4.jpg</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Splash/image1.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Splash/image2.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/Splash/image3.png</File>
+    <File>C:/Users/Rui Oliveira/Documents/TDJ projects/TDJ projects/Content/spriteTest.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

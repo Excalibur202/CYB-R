@@ -1,0 +1,486 @@
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\TDJ projects.exe
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\TDJ projects.pdb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.dll
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.xml
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.csprojResolveAssemblyReference.cache
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.csproj.CoreCompileInputs.cache
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.exe
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.pdb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\BG.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Font1.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\blyat.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Splash.tt
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Splash.txt
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Splash\image1.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Splash\image2.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Splash\image3.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\HG(2).xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\accepted.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Menus\imagem1.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\MenuFont.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Menus.txt
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\null.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\1.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\10.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\11.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\12.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\13.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\14.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\15.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\16.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\17.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\18.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\19.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\2.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\20.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\21.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\22.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\23.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\24.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\25.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\26.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\27.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\28.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\29.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\3.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\30.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\4.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\5.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\6.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\7.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\8.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\9.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\BG.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\spriteTest.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Player.txt
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\PaperMockup4.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\bullet.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Options.txt
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\birb.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Brutal.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\1.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\10.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\11.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\12.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\13.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\14.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\15.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\16.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\2.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\3.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\4.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\5.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\6.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\7.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\8.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\9.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\17.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\18.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\19.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\20.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\21.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\22.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\23.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\24.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\25.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\26.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\27.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\28.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\29.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\30.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\31.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\32.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\33.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\34.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\35.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\36.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\37.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\38.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\43.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\44.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\45.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\46.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\47.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\48.xnb
+D:\2_Semestre_Escolar_EDJD\Técnicas de desenvolvimento escolar\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\blueCavern.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.exe
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.pdb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Menus.txt
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Options.txt
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Player.txt
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Splash.tt
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Splash.txt
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\accepted.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\BG.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\birb.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\blueCavern.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\blyat.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Brutal.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Font1.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\HG(2).xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\null.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\PaperMockup4.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\spriteTest.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\1.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\10.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\11.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\12.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\13.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\14.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\15.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\16.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\17.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\18.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\19.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\2.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\20.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\21.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\22.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\23.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\24.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\25.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\26.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\27.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\28.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\29.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\3.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\30.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\31.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\32.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\33.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\34.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\35.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\36.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\37.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\38.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\4.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\43.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\44.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\45.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\46.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\47.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\48.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\5.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\6.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\7.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\8.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\9.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\1.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\10.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\11.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\12.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\13.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\14.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\15.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\16.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\17.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\18.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\19.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\2.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\20.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\21.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\22.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\23.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\24.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\25.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\26.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\27.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\28.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\29.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\3.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\30.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\4.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\5.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\6.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\7.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\8.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\9.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\BG.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Menus\imagem1.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Splash\image1.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Splash\image2.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Splash\image3.xnb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\TDJ projects.exe
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\TDJ projects.pdb
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.csprojResolveAssemblyReference.cache
+C:\Users\Daxtr\Desktop\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\1200-1.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Menus.txt
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Options.txt
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Splash.tt
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Splash.txt
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\cs go.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\1.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\10.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\11.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\12.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\13.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\14.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\15.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\16.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\17.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\18.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\19.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\2.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\20.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\21.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\22.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\23.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\24.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\25.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\26.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\27.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\28.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\29.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\3.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\30.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\4.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\5.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\6.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\7.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\8.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\9.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\BG.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Splash\image1.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Splash\image2.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Splash\image3.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Menus\imagem1.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\1.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\10.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\11.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\12.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\13.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\14.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\15.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\16.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\17.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\18.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\19.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\2.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\20.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\21.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\22.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\23.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\24.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\25.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\26.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\27.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\28.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\29.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\3.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\30.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\31.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\32.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\33.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\34.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\35.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\36.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\37.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\38.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\4.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\43.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\44.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\45.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\46.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\47.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\48.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\5.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\6.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\7.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\8.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\9.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\1200-1.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\accepted.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\BG.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\birb.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\blueCavern.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\blyat.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Brutal.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Font1.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\HG(2).xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\null.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\PaperMockup4.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\spriteTest.xnb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\TDJ projects.exe
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\TDJ projects.pdb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.csprojResolveAssemblyReference.cache
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.csproj.CoreCompileInputs.cache
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.exe
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.pdb
+C:\Users\Rui Oliveira\Desktop\2 semestre\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Controlls.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Menus.txt
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Options.txt
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Splash.tt
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Load\Splash.txt
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\1.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\10.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\11.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\12.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\13.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\14.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\15.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\16.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\17.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\18.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\19.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\2.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\20.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\21.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\22.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\23.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\24.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\25.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\26.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\27.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\28.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\29.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\3.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\30.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\4.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\5.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\6.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\7.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\8.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\9.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Desert\BG.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Menus\imagem1.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Splash\image1.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Splash\image2.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Splash\image3.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\1.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\10.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\11.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\12.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\13.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\14.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\15.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\16.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\17.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\18.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\19.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\2.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\20.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\21.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\22.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\23.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\24.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\25.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\26.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\27.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\28.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\29.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\3.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\30.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\31.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\32.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\33.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\34.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\35.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\36.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\37.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\38.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\4.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\43.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\44.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\45.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\46.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\47.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\48.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\5.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\6.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\7.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\8.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Cavern\9.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\1200-1.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\accepted.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\BG.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\birb.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\blueCavern.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\blyat.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Brutal.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Controlls.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\Font1.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\HG(2).xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\null.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\PaperMockup4.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\spriteTest.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\TDJ projects.exe
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\TDJ projects.pdb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.csproj.CoreCompileInputs.cache
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.exe
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.pdb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.csprojAssemblyReference.cache
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\obj\x86\Debug\TDJ projects.csproj.CopyComplete
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\cs go.xnb
+C:\Users\Rui Oliveira\Documents\TDJ projects\TDJ projects\bin\Windows\x86\Debug\Content\csgo.xnb

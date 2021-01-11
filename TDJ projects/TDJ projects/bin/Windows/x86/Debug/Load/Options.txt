@@ -1,0 +1,12 @@
+﻿Load=[OPTION]
+
+Load=[Axis][Position][Font][Animation]
+[2][600 400][MenuFont][Fade]
+
+Load=[Item][LinkType]
+[FullScreen][Size]
+
+Load=[Item][LinkType][LinkID]
+[Quit][Exit][MenuScreen]
+
+EndLoad=[OPTION]
